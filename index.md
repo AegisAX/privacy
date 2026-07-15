@@ -1,10 +1,7 @@
 # K-REFCON 개인정보처리방침 / Privacy Policy
 
-**앱 이름**: K-REFCON (냉동 컨테이너 모니터링)
-**패키지**: `com.krefcon.monitor`
-**제공자**: ㈜케이리퍼콘 (K-REFCON)
-**문의**: krefcon@k-refcon.com
-**시행일**: 2026-07-15
+**앱 이름**: K-REFCON (냉동 컨테이너 모니터링) · **패키지**: `com.krefcon.monitor` · **제공자**: ㈜케이리퍼콘 (K-REFCON)<br>
+**문의**: krefcon@k-refcon.com · **시행일**: 2026-07-15
 
 ---
 
